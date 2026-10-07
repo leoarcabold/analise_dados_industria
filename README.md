@@ -294,7 +294,7 @@ Os resultados foram apresentados utilizando gráficos para facilitar a interpret
 
 ### Custo operacional por máquina
 
-!Custo operacional por máquina
+![](https://github.com/leoarcabold/analise_dados_industria/blob/main/imagens/custo%20total%20de%20opera%C3%A7%C3%A3o%20por%20m%C3%A1quina.png)
 
 ### Qualidade por setor
 
