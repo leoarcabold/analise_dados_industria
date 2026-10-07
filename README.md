@@ -298,11 +298,11 @@ Os resultados foram apresentados utilizando gráficos para facilitar a interpret
 
 ### Qualidade por setor
 
-!Dias fora da meta de qualidade
+![](https://github.com/leoarcabold/analise_dados_industria/blob/main/imagens/dias%20com%20taxa%20de%20defeito%20acima%20da%20meta%2C%20por%20setor.png)
 
 ### Utilização da capacidade
 
-!Utilização da capacidade
+![](https://github.com/leoarcabold/analise_dados_industria/blob/main/imagens/utiliza%C3%A7%C3%A3o%20m%C3%A9dia%20da%20capacidade%20m%C3%A1xima%20di%C3%A1ria%2C%20por%20m%C3%A1quina.png)
 
 ---
 
