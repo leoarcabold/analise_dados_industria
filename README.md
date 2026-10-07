@@ -430,29 +430,9 @@ Como evolução do projeto, algumas possibilidades seriam:
 
 # 👨‍💻 Autor
 
-**Seu Nome**
+**Leandro Soares**
 
 📊 Data Analytics | Python | Pandas | Inteligência Artificial
 
 > **Projeto desenvolvido com foco em transformar dados em insights e apoiar decisões baseadas em evidências.**
 
-:::
-
-### 💡 Uma sugestão importante para seu portfólio
-
-Eu deixaria **"SENAI — Missão 6/7" como contexto**, e não como o destaque principal. Para recrutadores, a primeira impressão deve ser algo como:
-
-> **Análise de Dados da Produção Industrial** _Python • Pandas • Data Analytics • Indicadores Industriais_
-
-Isso faz o projeto parecer um **case de portfólio**, e não apenas uma atividade de curso.
-
-Também recomendo colocar no topo do README alguns badges, por exemplo:
-
-```
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
-![Status](https://img.shields.io/badge/Status-Concluído-success)
-```
-
-Se você quiser, no próximo passo posso montar **a versão ainda mais profissional, estilo portfólio de candidato a vaga de Analista de Dados**, incluindo **capa do projeto, badges, seção de KPI, "Business Problem", "Data Pipeline", "Insights", "Resultados" e uma descrição curta para aparecer na página principal do GitHub**.
